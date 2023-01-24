@@ -1,0 +1,39 @@
+{
+  "name": "@tarrasque/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier config for Tarrasque App",
+  "keywords": [
+    "tarrasque",
+    "config",
+    "prettier"
+  ],
+  "homepage": "https://github.com/tarrasqueapp/prettier-config#readme",
+  "bugs": {
+    "url": "https://github.com/tarrasqueapp/prettier-config/issues",
+    "email": "support@tarrasque.app"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Richard Solomou",
+    "email": "richard@tarrasque.app",
+    "url": "https://tarrasque.app"
+  },
+  "files": [
+    "base.json",
+    "esm.json",
+    "nestjs.json",
+    "nextjs.json",
+    "react.json"
+  ],
+  "main": "prettier.config.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tarrasqueapp/prettier-config"
+  },
+  "dependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^4.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
