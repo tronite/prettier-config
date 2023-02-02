@@ -3,7 +3,7 @@
   <h1>@tarrasque/prettier-config</h1>
 </div>
 
-This package provides [Prettier](https://prettier.io/) configuration for [Tarrasque App](https://tarrasque.app) projects. It is intended to be used with [@tarrasque/eslint-config](https://github.com/tarrasqueapp/eslint-config) and [@tarrasque/tsconfig](https://github.com/tarrasqueapp/prettier-config).
+This package provides [Prettier](https://prettier.io/) configuration for [Tarrasque App](https://tarrasque.app) projects. It is intended to be used with [@tarrasque/eslint-config](https://github.com/tarrasqueapp/eslint-config) and [@tarrasque/tsconfig](https://github.com/tarrasqueapp/tsconfig).
 
 ## Installation
 
