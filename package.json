@@ -1,6 +1,6 @@
 {
   "name": "@tarrasque/prettier-config",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Prettier config for Tarrasque App",
   "keywords": [
     "tarrasque",
@@ -18,11 +18,11 @@
     "email": "richard@tarrasque.app",
     "url": "https://tarrasque.app"
   },
-  "main": "prettier.config.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/tarrasqueapp/prettier-config"
   },
+  "main": "prettier.config.js",
   "dependencies": {
     "@trivago/prettier-plugin-sort-imports": "^4.0.0"
   },
