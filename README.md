@@ -21,8 +21,8 @@ yarn add --dev prettier
 
 ## Usage
 
-Add the following to your `.prettierrc.json` file:
+Add the following to your `.prettierrc.js` file:
 
-```json
-"@tronite/prettier-config"
+```js
+module.exports = require('@tronite/prettier-config');
 ```
