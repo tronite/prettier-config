@@ -10,13 +10,13 @@ This package provides [Prettier](https://prettier.io/) configuration for [Tronit
 To install this package, run the following command:
 
 ```sh
-yarn add --dev @tronite/prettier-config
+pnpm add -D @tronite/prettier-config
 ```
 
 You will also need to install the following peer dependencies:
 
 ```sh
-yarn add --dev prettier
+pnpm add -D prettier
 ```
 
 ## Usage
