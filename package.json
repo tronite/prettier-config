@@ -1,6 +1,6 @@
 {
   "name": "@tronite/prettier-config",
-  "version": "1.0.6",
+  "version": "1.1.0",
   "description": "Prettier config for Tronite",
   "keywords": [
     "tronite",
@@ -12,15 +12,15 @@
     "url": "https://github.com/tronite/prettier-config/issues",
     "email": "support@tronite.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tronite/prettier-config"
+  },
   "license": "MIT",
   "author": {
     "name": "Richard Solomou",
     "email": "richard@tronite.com",
     "url": "https://tronite.com"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/tronite/prettier-config"
   },
   "main": "prettier.config.js",
   "dependencies": {
